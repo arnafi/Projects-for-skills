@@ -79,5 +79,6 @@ int main()
         }
 
     }while(i<1000);
+    return 0;
 
 }
