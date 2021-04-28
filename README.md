@@ -26,7 +26,7 @@ That means, if user enters ‘r’, your program will take batting scores into t
 
 
 
-2nd project:
+2nd project is one person bank management system :
 
 The source code for Customer Account Bank Management System is relatively short and easy to understand. I have divided this C mini project into many functions, most of which are related to different banking activities. Listed below are some of the more important functions which may help you understand the project better.
 
