@@ -28,3 +28,29 @@ That means, if user enters ‘r’, your program will take batting scores into t
 
 2nd project:
 
+The source code for Customer Account Bank Management System is relatively short and easy to understand. I have divided this C mini project into many functions, most of which are related to different banking activities. Listed below are some of the more important functions which may help you understand the project better.
+
+menu() – This function displays the menu or welcome screen to perform different banking activities mentioned below.
+
+
+ 
+new_acc() – This function creates a new customer account. It asks for some  personal and banking details of the customer such as name, date of birth, citizenship number, address and phone number. You can enter the amount to deposit and cashout.
+
+view list() – With this function, you can view the customer’s banking information such as account number, name, address and phone number provided while creating the account.
+
+edit() – This function has been used for changing the address and phone number of a particular customer account.
+
+transact() – With this function, you can deposit and withdraw money to and from a particular customer account.
+
+erase() – This function is for deleting a customer account.
+
+see() – This function shows account number, name, date of birth, citizenship number, age, address, phone number, type of account, amount deposited and date of deposit. 
+
+In this bank management system project in C, file handling has been used for almost all functions. This is for update my skill.This system can take one person statement.
+This project is only for demo purpose.
+you can suggest me some iformation for this project.
+
+
+3rd Project : 
+
+
